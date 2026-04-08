@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Civil/Geotechnical Engineer currently pursuing my M.Sc. in Civil Engineering (Structural and Geotechnical track) at the University of Central Florida (UCF), where I also serve as a Graduate Researcher and Teaching Assistant. Prior to UCF, I earned my B.Sc. in Civil Engineering with First Class Honors from The University of the West Indies.
+Welcome! 
 
-With extensive industry experience at Trintoplan Consultants Limited and Atlantic Project Consultants, I have led geotechnical investigations, managed pavement rehabilitations, and executed complex foundation designs.
+I am a Civil/Geotechnical Engineer currently pursuing my M.Sc. in Civil Engineering (Structural and Geotechnical track) at the University of Central Florida (UCF), where I also serve as a Graduate Researcher and Teaching Assistant. 
+Prior to UCF, I earned my B.Sc. in Civil Engineering with First Class Honors from The University of the West Indies.
+
+I have extensive industry experience at Trintoplan Consultants Limited and Atlantic Project Consultants, I have led geotechnical investigations, managed pavement rehabilitations, and executed complex foundation designs.
 
 My current research interests bridge the gap between structural and geotechnical engineering, focusing on:
 
