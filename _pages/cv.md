@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 ## Education
 * **M.Sc. in Civil Engineering (Structural and Geotechnical)** *University of Central Florida (UCF)*, Orlando, FL (Ongoing)
